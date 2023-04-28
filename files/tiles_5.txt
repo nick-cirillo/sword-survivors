@@ -1,0 +1,15 @@
+L,L,L,L,L,L,L,L,L,L,L,L,L,L,L
+L,L,L,L,L,L,L,L,L,L,L,L,L,L,L
+L,L,L,L,L,L,L,L,L,L,L,L,L,L,L
+L,L,L,L,L,L,L,L,L,L,L,L,L,L,L
+S,S,S,S,S,L,L,L,L,L,S,S,S,S,S
+S,S,S,S,S,F,L,L,L,F,S,S,S,S,S
+K,F,S,S,S,S,F,F,F,S,S,S,S,K,F
+F,F,S,S,S,S,F,P,F,S,S,S,S,F,F
+S,S,S,S,S,S,F,F,F,S,S,S,S,S,S
+S,S,S,S,S,F,L,L,L,F,S,S,S,S,S
+S,S,S,S,S,L,L,L,L,L,S,S,S,S,S
+L,L,L,L,L,L,L,L,L,L,L,L,L,L,L
+L,L,L,L,L,L,L,L,L,L,L,L,L,L,L
+L,L,L,L,L,L,L,L,L,L,L,L,L,L,L
+L,L,L,L,L,L,L,L,L,L,L,L,L,L,L
